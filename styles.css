@@ -1,3 +1,5 @@
+/* || BASE STYLES */
+
 * {
     box-sizing: border-box;
 }
@@ -11,7 +13,7 @@ body {
     line-height: 1.5;
 }
 
-h1 {
+h2  {
     font-family: "Big Shoulders Display", 'Brush Script MT', cursive;
     font-weight: 700;
 }
